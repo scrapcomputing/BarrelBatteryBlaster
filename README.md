@@ -9,6 +9,11 @@ These barrel batteries tend to leak, damaging the motherboard and the surroundin
 <img src='img/BarrelBatteryBlaster_PCB.jpg' alt='Barrel Battery Blaster PCB' height=240>
 </p>
 
+# How can I get one?
+
+You can order one at your PCB fab of choice. The simplest way is to use the zipped [gerber files](https://github.com/scrapcomputing/BarrelBatteryBlaster/releases/download/rev0.1/BarrelBatteryBlaster_rev0.1_gerbers.zip).
+
+
 # Bill of materials
 
 Item                                           | #   | Description
