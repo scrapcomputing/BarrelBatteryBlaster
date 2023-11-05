@@ -9,9 +9,17 @@ These barrel batteries tend to leak, damaging the motherboard and the surroundin
 <img src='img/BarrelBatteryBlaster_PCB.jpg' alt='Barrel Battery Blaster PCB' height=240>
 </p>
 
+Other similar projects:
+- [Vertical Battery Blaster](https://github.com/scrapcomputing/VerticalBarrelBatteryBlaster)
+- [Horizontal Barrel Battery Blaster](https://github.com/scrapcomputing/HorizontalBarrelBatteryBlaster)
+
 # How can I get one?
 
 You can order one at your PCB fab of choice. The simplest way is to use the zipped [gerber files](https://github.com/scrapcomputing/BarrelBatteryBlaster/releases/download/rev0.1/BarrelBatteryBlaster_rev0.1_gerbers.zip).
+
+# Video
+
+https://www.youtube.com/watch?v=6Hp7FsoPKOY
 
 
 # Bill of materials
